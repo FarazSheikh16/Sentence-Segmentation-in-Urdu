@@ -26,5 +26,3 @@ Several challenges need to be addressed while implementing the sentence segmenta
 A function should be implemented to evaluate the performance of the segmentation technique. This requires applying problem-solving skills to assess the accuracy of the segmentation output.
 
 Feel free to modify and improve upon the existing libraries or techniques to achieve better results.
-
-By following the above guidelines, you can create a clear and informative README.md file for your GitHub repository.
